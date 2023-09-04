@@ -142,7 +142,7 @@ public class test {
                     ans = scanners.nextInt();
 
                     if (correct == ans) {
-                        System.out.println("Congratulations!");
+                        System.out.println("CONGRATULATIONS!!!");
 
 
                     } else {
